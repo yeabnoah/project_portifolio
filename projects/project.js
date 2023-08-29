@@ -4,8 +4,8 @@ const Projects = [
     about:
       "Hopebridge is a clone of youtube i build to showcase my advanced frontend skills using the latest technologies. i have put so much effort on this project and also learn a lot",
     img: "https://i.ibb.co/qsHFpZQ/1st-project.png",
-    gitrepo: "https://github.com/db648/Agoda-clone",
-    blog: "https://medium.com/@vdbhavani.648/agoda-clone-eb28c930815e",
+    gitrepo: "https://github.com/yeabnoah/Project_Maya",
+    blog: "#",
     tech_stack: "HTML | CSS | JAVASCRIPT | React | Redux | RapidApi | Nodejs",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
@@ -15,8 +15,26 @@ const Projects = [
       `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
       `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
     ],
-    project_link: "https://agoda-clone-website.vercel.app/",
-    project_type: "Team Project",
+    project_link: "https://mayya.netlify.app",
+    project_type: "Personal Project",
+  },
+  {
+    name: "Nike Clone - UI",
+    about:
+      "this is project is a showcase of my skills with latest and trending frontend designs.",
+    img: "https://i.ibb.co/R6BrS79/Orange-Simple-Talk-About-Nature-You-Tube-Tumbnail.png",
+    gitrepo: "https://github.com/yeabnoah/project_Nike",
+    blog: "#",
+    tech_stack: "HTML | CSS | JAVASCRIPT | React |  Nodejs | Tailwindcss",
+    tech_stackicons: [
+      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+      `<img src="https://img.icons8.com/color/50/000000/Tailwindcss.png"/>`,
+      `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
+    ],
+    project_link: "https://Nikecloned.netlify.app/",
+    project_type: "Personal Project",
   },
 ];
 
