@@ -30,7 +30,7 @@ const Projects = [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
       `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/Tailwindcss.png"/>`,
+      `<img src="https://i.ibb.co/WnmpFnQ/tailwindcss.png"/>`,
       `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
     ],
     project_link: "https://Nikecloned.netlify.app/",
